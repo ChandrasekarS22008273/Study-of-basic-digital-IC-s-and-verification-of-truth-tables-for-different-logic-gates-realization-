@@ -59,10 +59,10 @@ If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 ## Program:
 /*
+```
 #Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 #Developed by: Chandrasekar S
 #RegisterNumber: 212222230025
-```
 module expone(a,b,yor,yand,ynot,ynor,ynand,yxor,yxnor);
 input a,b;
 output yor,yand,ynot,ynor,ynand,yxor,yxnor;
